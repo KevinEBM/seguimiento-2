@@ -7,7 +7,7 @@
 
     // Verificar si el número de modelo es un número válido
     if (isNaN(numeroModelo)) {
-        console.error("Por favor, ingrese un número de modelo válido.");
+        console.log("Por favor, ingrese un número de modelo válido.");
         return;
     }
 
