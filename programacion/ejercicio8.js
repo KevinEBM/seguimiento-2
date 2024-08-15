@@ -6,7 +6,7 @@ if (dias == 15 ) {
 } else if (dias == 30 ) {
     costoMensualidad = 35000
 } else (dias == 90 ) ; {
-
+    costoMensualidad = 86000
 } 
 if (costoMensualidad) {
     console.log(`El costo de la mensualidad por ${dias} días es: ${costo} pesos.`);
